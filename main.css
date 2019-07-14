@@ -26,6 +26,8 @@ a {
 img {
     width: 33%;
     height: auto; 
+    margin-left: auto;
+    margin-right: auto;
     padding: 30px;
     background-color: #8ca3a3;
 }
@@ -36,6 +38,13 @@ h1 {
     font-family:"Impact", sans-serif;
     font-size: 50px;
     text-align: center;
+}
+
+h2 {
+    display: block;
+    color: #fff;
+    background-color: #484f4f;
+    font-size: 30px;
 }
 
 p {
