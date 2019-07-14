@@ -22,9 +22,9 @@ a {
     font-size: 30px;
 }
 
-#MyPic {
-    width: 228px;
-    height: 304px; 
+img {
+    width: 33%;
+    height: auto; 
     padding: 30px;
     background-color: #8ca3a3;
 }
