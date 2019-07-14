@@ -63,6 +63,7 @@ p {
 #interests-table {
     display: block;
     width: 50%; 
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     border: 3px solid #484f4f;
@@ -70,4 +71,8 @@ p {
     color: #ffffff;
     text-align: center;
     font-family: "Roboto Condensed", sans-serif;
+}
+
+th, td {
+    border: 1px solid #484f4f;
 }
