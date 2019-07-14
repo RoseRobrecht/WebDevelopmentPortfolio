@@ -63,6 +63,7 @@ p {
 #interests-table {
     display: block;
     width: 50%; 
+    min-width: 362px;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -75,4 +76,12 @@ p {
 
 th, td {
     border: 1px solid #484f4f;
+}
+
+th {
+    font-size: 20;
+}
+
+td {
+    font-size: 14;
 }
