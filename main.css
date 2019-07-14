@@ -61,6 +61,10 @@ p {
 }
 
 #interests-table {
+    display: block;
+    width: 50%; 
+    margin-left: auto;
+    margin-right: auto;
     border: 3px solid #484f4f;
     background-color: #8ca3a3;
     color: #ffffff;
