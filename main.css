@@ -28,3 +28,12 @@ img {
     padding: 30px;
     background-color: #8ca3a3;
 }
+
+h1 {
+    font-family:"Impact", sans-serif;
+    font-size: 50px;
+}
+
+p {
+    font-family: "Roboto Condensed", sans-serif;
+}
