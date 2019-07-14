@@ -30,10 +30,15 @@ img {
 }
 
 h1 {
+    display: block;
+    color: #484f4f;
     font-family:"Impact", sans-serif;
     font-size: 50px;
 }
 
 p {
+    display: block;
+    color: #fff;
+    background-color: #484f4f;
     font-family: "Roboto Condensed", sans-serif;
 }
