@@ -1,5 +1,5 @@
 body {
-    background-color: #ffeead;
+    background-color: #c8c3cc;
 }
 
 ul {
@@ -14,8 +14,8 @@ li {
 
 a {
     display: inline block;
-    padding: 10px;
-    background-color: #96ceb4;
+    padding: 30px;
+    background-color: #563f46;
     color: #fff;
     font-family: "Impact", sans-serif;
     font-size: 30px;
