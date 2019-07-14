@@ -1,5 +1,20 @@
-h1 {
-    font-family: Garamond;
-    font-size: 22px;
-    color: MidnightBlue;
+body {
+    background-color: #ffeead;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    display: block;
+    padding: 10px;
+    background-color: #96ceb4;
+    color: #fff;
 }
