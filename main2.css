@@ -71,17 +71,19 @@ p {
     color: #405d27;
     border: 3px dotted #82b74b;
     border-radius: 30px;
+    padding: 20px;
 }
 
 #interests-table {
     display: block;
+    width:50%;
     min-width: 482px;
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     border: 3px dotted #405d27;
     background-color: #e3eaa7;
-    color: #fff;
+    color: #405d27;
     text-align: center;
 }
 
@@ -97,4 +99,8 @@ th {
 td {
     font-size: 20px;
     font-family: "Crimson Text", serif;
+}
+
+footer {
+    color: #fff;
 }
