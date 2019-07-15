@@ -91,7 +91,7 @@ h4 {
     font-size: 25px;
     background-color: #484f4f;
     color: #fff;
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Condensed", sans-serif;
     text-align: center;
 }
 footer {
