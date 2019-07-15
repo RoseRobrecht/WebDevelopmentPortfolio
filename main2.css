@@ -1,0 +1,25 @@
+body {
+    background-color: #c1946a;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    display: inline block;
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #405d27;
+    color: #fff;
+    font-family: "Mountains of Christmas", cursive;
+    font-size: 30px;
+}
