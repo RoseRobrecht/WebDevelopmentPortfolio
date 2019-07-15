@@ -57,9 +57,44 @@ h2 {
     background-color: #405d27;
     color: #fff;
     border: 3px dotted #82b74b;
-    font-family: "Mountain of Christmas", cursive;
+    font-family: "Mountains of Christmas", cursive;
     font-size: 35px;
     border-radius: 90px;
     padding: 10px;
     margin: 20px;
+}
+
+p {
+    background-color: #e3eaa7;
+    font-family: "Crimson Text", serif;
+    font-size: 20px;
+    color: #405d27;
+    border: 3px dotted #82b74b;
+    border-radius: 30px;
+}
+
+#interests-table {
+    display: block;
+    min-width: 482px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px dotted #405d27;
+    background-color: #e3eaa7;
+    color: #fff;
+    text-align: center;
+}
+
+th, td {
+    border: 3px dashed #405d27;
+}
+
+th {
+    font-size: 30px;
+    font-family: "Mountains of Christmas", cursive;
+}
+
+td {
+    font-size: 20px;
+    font-family: "Crimson Text", serif;
 }
