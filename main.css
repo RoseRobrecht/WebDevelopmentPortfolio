@@ -86,13 +86,16 @@ td {
     font-family: "Roboto Condensed", sans-serif;
 }
 h4 {
+    display: block;
+    padding: 30px;
     font-size: 25px;
     background-color: #484f4f;
     color: #fff;
     font-family: "Roboto Condensed";
+    text-align: center;
 }
 footer {
-    font-size: 12px;
+    font-size: 18px;
     background-color: #8ca3a3;
     color: #fff;
 }
