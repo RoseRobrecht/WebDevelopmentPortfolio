@@ -103,12 +103,14 @@ td {
 
 h4 {
     display: block;
-    padding: 30px;
+    padding: 20px;
     font-size: 20px;
     background-color: #82b74b;
     color: #fff;
     font-family: "Crimson Text", serif;
     text-align: center;
+    border-radius: 90px;
+    border: 3px dashed #405d27;
 }
 
 footer {
