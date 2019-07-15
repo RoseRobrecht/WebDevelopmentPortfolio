@@ -101,6 +101,16 @@ td {
     font-family: "Crimson Text", serif;
 }
 
+h4 {
+    display: block;
+    padding: 30px;
+    font-size: 20px;
+    background-color: #82b74b;
+    color: #fff;
+    font-family: "Crimson Text", serif;
+    text-align: center;
+}
+
 footer {
     color: #fff;
 }
